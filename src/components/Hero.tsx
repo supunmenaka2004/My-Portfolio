@@ -48,7 +48,7 @@ export default function Hero() {
               <a href="https://www.facebook.com/supun.menaka.7505" target="_blank" rel="noopener noreferrer" className="w-10 h-10 rounded-full border border-accent flex items-center justify-center text-accent hover:bg-accent hover:text-black transition-all">
                 <FaFacebook size={16} />
               </a>
-              <a href="#" className="w-10 h-10 rounded-full border border-accent flex items-center justify-center text-accent hover:bg-accent hover:text-black transition-all">
+              <a href="https://medium.com/@supunmenaka693" target="_blank" rel="noopener noreferrer" className="w-10 h-10 rounded-full border border-accent flex items-center justify-center text-accent hover:bg-accent hover:text-black transition-all">
                 <FaMedium size={16} />
               </a>
             </div>
